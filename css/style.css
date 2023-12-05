@@ -1,0 +1,27 @@
+/* Se le quita los puntos a la lista */
+header nav ul {
+    list-style-type: none;
+}
+
+/* Por el momento las imagenes van a estar con el 
+100% de la escala hasta que tome forma la pagina*/
+main img {
+    width: 100%;
+}
+
+/* Quito el subrayado de los links */
+a {
+    text-decoration: none;
+}
+
+/* Estilo para la navegación que se encuentra en el footer */
+.nav-footer {
+    list-style-type: none;
+    color: #3d3834;
+}
+
+/* Clase para colocar el texto en el centro */
+.txt-center{
+    text-align: center;
+    color: #555555;
+}
